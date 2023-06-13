@@ -7,14 +7,17 @@
   <meta charset="UTF-8">
   <meta http-equi="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<!--  <tittle class="name">Foodie's Hideaway</tittle> -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;600&display=swap" rel="stylesheet">
+ <tittle class="name">Foodie's Hideaway</tittle>
  </head>
  <body>
   <section class ="hero-section">
   <div class="hero">
   <div class="text">
-  <h1 class="heading">With each mouthful, you can taste the care and thoughtfulness that will go into creating the nourishing masterpiece.<h1>
-  <p class= "Description">
+  <h1 class="heading" style="font-size:40px">With each mouthful, you can taste the care and thoughtfulness that will go into creating the nourishing masterpiece.<h1>
+  <p class= "Description" style="font-size:25px">
     Our hotel offers a unique experience where health and taste come together     seamlessly.
     By choosing our food, you not only prioritize your well-being but also         indulge in flavors that will delight your senses. 
     We provide nutritious meals that are carefully prepared with fresh             ingredients, ensuring a harmonious balance of flavors and vibrant colors. </p>
