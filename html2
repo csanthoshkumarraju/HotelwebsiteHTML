@@ -10,6 +10,11 @@
  <tittle class="name">Foodie's Hideaway</tittle>
  </head>
  <body>
+  <header class="header">
+  <img class="logo" alt="Foodie's Hideaway logo" src="https://e0.pxfuel.com/wallpapers/174/289/desktop-wallpaper-printable-customizable-restaurant-logo-templates-food-logo.jpg" width="150" height="150px"/>
+<nav class="main-nav">Navigation</nav>
+  </header>
+  <main>
   <section class ="hero-section">
   <div class="hero">
   <div class="text">
@@ -32,11 +37,21 @@
    <div class= "Human"> <img src="https://media.istockphoto.com/id/1215369487/photo/happy-extended-family-having-fun-during-family-lunch-in-dining-room.jpg?s=612x612&w=0&k=20&c=Iu_k8lpZvr2oYORYZVTX5dM7ywDQv1UfkTsjPWaReE8=" class= "hero-pic" alt="Precious Hotel"/> </div>
    <div class= "Human" > <img src="https://media.istockphoto.com/id/536665840/photo/family-dinner.jpg?s=612x612&w=0&k=20&c=9dc8vWUoErfaxzTNqYt2T7sA5DyCRO5gRvF6pYU1LSI=" width="350" height="300px"/> </div>
 </div> 
-<div class="customers">
+<div class="pictures">
+<p>These fascinating pictures show the beauty and charm of our beautiful hotel. With its stunning architecture and picturesque surroundings, our hotel is truly the epitome of luxury and elegance. Located in an idyllic setting, guests can enjoy the scenery and tranquility, creating unforgettable memories. From the inviting lobby to the carefully designed guest rooms, refinement and comfort radiate from every corner of our hotel. Whether you are looking for a vacation or relaxing in the best location, our beautiful properties will surely blow your mind and create an unforgettable experience.</p>
+</div>
+<!-- ***************************************************************
+ ******************************************************************-->
+<!-- Reviews need to be place at last. -->
+<!-- <div class="customers">
  <div class= "reviews">
  <img src="https://cdn-icons-png.flaticon.com/128/2065/2065224.png"/> </div>
 <div class= "reviewsi"><img src="https://coderevolution.ro/wp-content/uploads/2019/09/customer-rating.jpg" width="400" height="250"/> </div>
 <p class="reviews1" style="width: 400px " "height: 250px"><em><i><b>"Our customer reviews."</b></i></em>Indelible Stay A Perfect mix of Luxury and Comfort! A Gem of Hospitality Exceptional Service and Exquisite Air! Paradise set up Your Dream flight at Foodie's Hideaway!.I love the avocado toast and the California focaccia. I will definitely come back! Always worth a stop. We are lucky to have this great restaurant in our town.</p> 
- </div>
+ </div> -->
+ <!-- ***************************************************************
+ ******************************************************************-->
+ <!-- Reviews need to be place at last. -->
+ </main>
  </body>
  </html>
