@@ -1,6 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
+<head><!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta http-equi="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;600&display=swap" rel="stylesheet">
+ <tittle class="name">Foodie's Hideaway</tittle>
+ </head>
+ <body>
+  <header class="header">
+  <img class="logo" alt="Foodie's Hideaway logo" src="https://e0.pxfuel.com/wallpapers/174/289/desktop-wallpaper-printable-customizable-restaurant-logo-templates-food-logo.jpg" width="150" height="150px"/>
+<h3 class="first-txt"><b>Foodie's Hideaway</b></h3>
+<nav class="main-nav">
+ <ul class="main-nav-list">
+ <li><a class="main-nav-link" href="#">Section 1</a></li>
+ <li><a class="main-nav-link" href="#">Section 2</a></li>
+ <li><a class="main-nav-link" href="#">Section 3</a></li>
+ <li><a class="main-nav-link" href="#">Section 4</a></li>
+ <li><a class="main-nav-link-btn" href="#">Section 5</a></li>
+ </ul>
+</nav>
+  </header>
+  <main>
+  <section class ="hero-section">
+  <div class="hero">
+  <div class="text">
+  <h1 class="heading" style="font-size:40px">With each mouthful, you can taste the care and thoughtfulness that will go into creating the nourishing masterpiece.<h1>
+  <p class= "Description" style="font-size:25px">
+    Our hotel offers a unique experience where health and taste come together seamlessly.
+    By choosing our food, you not only prioritize your well-being but also indulge in flavors that will delight your senses. 
+    We provide nutritious meals that are carefully prepared with fresh ingredients, ensuring a harmonious balance of flavors and vibrant colors. </p>
+    <a href="https://www.swiggy.com/city/hyderabad" class= "button">Start eating now</a>
+    <a href="https://www.chefspencil.com/30-popular-south-indian-foods-and-desserts/" class= "button">Explore now</a>
+    </div>      
+  <div class ="hero-image">
+    <img src="https://assets.gqindia.com/photos/62a9d4653e8cdc9b632eb2ad/16:9/pass/10%20restaurants%20in%20Mumbai%20that%20offer%20the%20best%20sunset%20views.jpg" class= "hero-pic" alt="Precious Hotel"/>
+ </div>
+ </div>
+ </section>
+ <div class= "Served">
+   <div class= "Human">
+    <img src="https://www.colourbox.com/preview/4316034-family-eating-lunch-together-in-restaurant.jpg" class= "hero-pic" alt="Precious Hotel"/> </div>
+   <div class= "Human"> <img src="https://media.istockphoto.com/id/1215369487/photo/happy-extended-family-having-fun-during-family-lunch-in-dining-room.jpg?s=612x612&w=0&k=20&c=Iu_k8lpZvr2oYORYZVTX5dM7ywDQv1UfkTsjPWaReE8=" class= "hero-pic" alt="Precious Hotel"/> </div>
+   <div class= "Human" > <img src="https://media.istockphoto.com/id/536665840/photo/family-dinner.jpg?s=612x612&w=0&k=20&c=9dc8vWUoErfaxzTNqYt2T7sA5DyCRO5gRvF6pYU1LSI=" width="350" height="300px"/> </div>
+</div> 
+<div class="pictures">
+<p>These fascinating pictures show the beauty and charm of our beautiful hotel. With its stunning architecture and picturesque surroundings, our hotel is truly the epitome of luxury and elegance. Located in an idyllic setting, guests can enjoy the scenery and tranquility, creating unforgettable memories. From the inviting lobby to the carefully designed guest rooms, refinement and comfort radiate from every corner of our hotel. Whether you are looking for a vacation or relaxing in the best location, our beautiful properties will surely blow your mind and create an unforgettable experience.</p>
+</div>
+<!-- ***************************************************************
+ ******************************************************************-->
+<!-- Reviews need to be place at last. -->
+<!-- <div class="customers">
+ <div class= "reviews">
+ <img src="https://cdn-icons-png.flaticon.com/128/2065/2065224.png"/> </div>
+<div class= "reviewsi"><img src="https://coderevolution.ro/wp-content/uploads/2019/09/customer-rating.jpg" width="400" height="250"/> </div>
+<p class="reviews1" style="width: 400px " "height: 250px"><em><i><b>"Our customer reviews."</b></i></em>Indelible Stay A Perfect mix of Luxury and Comfort! A Gem of Hospitality Exceptional Service and Exquisite Air! Paradise set up Your Dream flight at Foodie's Hideaway!.I love the avocado toast and the California focaccia. I will definitely come back! Always worth a stop. We are lucky to have this great restaurant in our town.</p> 
+ </div> -->
+ <!-- ***************************************************************
+ ******************************************************************-->
+ <!-- Reviews need to be place at last. -->
+ </main>
+ </body>
+ </html>
+
   <meta charset="UTF-8">
   <meta http-equi="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
