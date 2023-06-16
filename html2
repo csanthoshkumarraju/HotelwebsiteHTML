@@ -7,7 +7,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;600&display=swap" rel="stylesheet">
- <tittle class="name">Foodie's Hideaway</tittle>
+<!--  tittle  -->
+<div class="tittlew">
+<tittle class="name">Foodie's Hideaway</tittle>
+<div>
+    <img src="https://media.istockphoto.com/id/186902081/photo/luxury-restaurant-in-european-style.jpg?s=612x612&w=0&k=20&c=mSoMmrpdjX6PI1cGVxP_hqioqg0di0P4Go1TEXdWJO0=" class="fi-img" width="700" height="55"/>
+ </div>
+</div>
+<!--  tittle  -->
  </head>
  <body>
   <header class="header">
@@ -49,18 +56,27 @@
 <div class="pictures">
 <p>These fascinating pictures show the beauty and charm of our beautiful hotel. With its stunning architecture and picturesque surroundings, our hotel is truly the epitome of luxury and elegance. Located in an idyllic setting, guests can enjoy the scenery and tranquility, creating unforgettable memories. From the inviting lobby to the carefully designed guest rooms, refinement and comfort radiate from every corner of our hotel. Whether you are looking for a vacation or relaxing in the best location, our beautiful properties will surely blow your mind and create an unforgettable experience.</p>
 </div>
-<!-- four classes created 1.how-section 2.grid 3.col-2-grid 4.container-->
 <section class="how-section">
    <div class="container">
    <span class="subheading">How it works</span>
    <h2 class="heading2">Your healthy meals can be prepared in a short time; Catch!<h2>
   </div>
- <div class="container">
-  <div class="text-box"> <p>01</p></div>
+<!--  ************* 01 ************************  -->
+ <div class="container grid col-2-grid">
+  <div class="text-box"> <p>01</p>
   <h3 class="heading3">Tell us what you want to eat</h3>
   <p class="Description-step">Don't stress when deciding what to eat! We're here to provide you with a variety of nutrient-dense options. Our menu includes carefully selected items and we offer a timeline of when and what to eat. Let us take care of your dietary needs while allowing you to enjoy your food without worry.</p>
+</div>
   <div class="img-box">
    <img src="https://www.quikstonecapital.com/hubfs/menu-3167860_640.jpg" class="step-img" alt="iphone app"/>
+  </div>
+<!--  ************* 02 ************************  -->
+<div class="img-box">
+   <img src="https://fitnessista.com/wp-content/uploads//2018/01/easy-healthy-breakfast-lunch-and-dinner-ideas.jpg" class="step-img" alt="iphone app"/>
+  </div>
+<!--  ************* 03 ************************  -->
+ <div class="img-box">
+   <img src="https://www.haldirams.com/media/catalog/tmp/category/Ready_to_eat_for_mobile.jpg" class="step-img" alt="iphone app"/>
   </div>
  </div>
  </section>
