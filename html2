@@ -7,15 +7,22 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;600&display=swap" rel="stylesheet">
-<!--  tittle  -->
+ </head>
+<!--    -->
+<!--  tittle start -->
+<!--   -->
 <div class="tittlew">
 <tittle class="name">Foodie's Hideaway</tittle>
 <div>
     <img src="https://media.istockphoto.com/id/186902081/photo/luxury-restaurant-in-european-style.jpg?s=612x612&w=0&k=20&c=mSoMmrpdjX6PI1cGVxP_hqioqg0di0P4Go1TEXdWJO0=" class="fi-img" width="700" height="55"/>
  </div>
 </div>
-<!--  tittle  -->
- </head>
+<!--   -->
+<!--  tittle end -->
+<!--    -->
+<!--   -->
+<!--  logo navigation start -->
+<!--    -->
  <body>
   <header class="header">
   <img class="logo" alt="Foodie's Hideaway logo" src="https://e0.pxfuel.com/wallpapers/174/289/desktop-wallpaper-printable-customizable-restaurant-logo-templates-food-logo.jpg" width="150" height="150px"/>
@@ -30,6 +37,13 @@
  </ul>
 </nav>
   </header>
+   
+ <!--   -->
+<!--  logo navigation end -->
+<!--    --> 
+<!--   -->
+<!--  hero section start -->
+<!--    -->
   <main>
   <section class ="hero-section">
   <div class="hero">
@@ -47,6 +61,12 @@
  </div>
  </div>
  </section>
+<!--   -->
+<!--  hero section end -->
+<!--    -->
+ <!--   -->
+<!--  hotel pics and description start -->
+<!--    -->
  <div class= "Served">
    <div class= "Human">
     <img src="https://www.colourbox.com/preview/4316034-family-eating-lunch-together-in-restaurant.jpg" class= "hero-pic" alt="Precious Hotel"/> </div>
@@ -56,11 +76,34 @@
 <div class="pictures">
 <p>These fascinating pictures show the beauty and charm of our beautiful hotel. With its stunning architecture and picturesque surroundings, our hotel is truly the epitome of luxury and elegance. Located in an idyllic setting, guests can enjoy the scenery and tranquility, creating unforgettable memories. From the inviting lobby to the carefully designed guest rooms, refinement and comfort radiate from every corner of our hotel. Whether you are looking for a vacation or relaxing in the best location, our beautiful properties will surely blow your mind and create an unforgettable experience.</p>
 </div>
-<!-- how-section  -->
+<!--   -->
+<!--  hotel pics and description end -->
+<!--    -->
+<!--  -->
+<!-- As highlighted in section start-->
+<!--  -->
+<section class="feature">
+<div class="featuire-cotainer">
+<h2 class="feature-heading">As highlighted in</h2>
+<div class="featured-logos">
+   <img src="https://mumbaimirror.indiatimes.com/thumb/msid-73505359,width-1200,height-900,resizemode-4/.jpg" class="featured-logo1" alt="Times of India"/>
+  <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/livetv/indiaToday.jpg" class="featured-logo2" alt="India Today"/>
+  <img src="https://play-lh.googleusercontent.com/dSS5OclMxGTasbTH1PYsxZ9bmXZyv7xcU4elR7afSqXns-6MEo1ZYteZi-l75E3g5kY" class="featured-logo3" alt="The Indian Express"/>
+  <img src="https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16509-1592_import.png" class="featured-logo4" alt="The Hindu"/>
+  <img src="https://play-lh.googleusercontent.com/KwnHWCZmrNPKLXtv41JSaCyLzC6X6CoXXAXSKi43HgwUG-Gan4MXDQvXq6oZDg-gck4" class="featured-logo5" alt=" Deccan Chronicle"/>
+  </div>
+</div>
+</section>
+<!--  -->
+<!--  As highlighted in section end -->
+<!--  -->
+<!--      -->
+<!-- how-section  start-->
+<!--      -->
 <section class="how-section">
    <div class="container">
    <span class="subheading">How it works</span>
-   <h2 class="heading2">Your healthy meals can be prepared in a short time; Catch!<h2>
+   <h2 class="heading2">Your healthy meals can be prepared in a short time; Catch!<h2>  
   </div>
  <div class="container grid col-2-grid">
   <!--  ************* 01 ************************  -->
@@ -96,9 +139,44 @@ Taste buds awaken as you taste each mouthwatering bite.</p>
  </div>
  </div>
  </section>
+<!--      -->
+<!-- how-section  end-->
+<!--      -->
+<!-- meals section  start-->
+<!--   -->
+ <section class="meals-section">
+ <div class="meal-container">
+ <span class="meals-heading">Meals</span>
+ <h2 class="meals-second-heading">"Our hotel has a variety of foods to meet neutron nutrients and promote health"</h2>
+ <div class="container grid col-3-grid">
+ <div class="meal">
+ <img src="https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food.jpg" class="meal-image" alt="recipes"/>
+<span class="tag">Vegetarian</span>
+<p class="meal-tittle">South Indian Food</p>
+<ul class="meal-Details">
+<li class="meal-Detail"><ion-icon name="flame-outline"></ion-icon>
+ <span>500 calories</span></li>
+<li class="meal-Detail">
+ <ion-icon name="restaurant-outline"></ion-icon>
+<span>74 Nutriscore &reg</span></li>
+<li class="meal-Detail"><ion-icon name="star"></ion-icon>
+<span>Rating: 4.5(1000)</span></li>
+</ul>
+ </div>
+ <div class="meal">Meals</div>
+ <div class="list">List of diets</div>
+ </div>
+ </div>
+ </section>
+<!--     -->
+<!-- meals section  end-->
+<!--   -->     
 <!-- ***************************************************************
  ******************************************************************-->
+<!--  -->
 <!-- Reviews need to be place at last. -->
+<!-- reviews section start -->
+<!--  -->
 <!-- <div class="customers">
  <div class= "reviews">
  <img src="https://cdn-icons-png.flaticon.com/128/2065/2065224.png"/> </div>
@@ -108,6 +186,12 @@ Taste buds awaken as you taste each mouthwatering bite.</p>
  <!-- ***************************************************************
  ******************************************************************-->
  <!-- Reviews need to be place at last. -->
+ <!--  -->
+<!-- Reviews need to be place at last. -->
+<!-- reviews section start -->
+<!--  -->
  </main>
+ <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
  </body>
  </html>
