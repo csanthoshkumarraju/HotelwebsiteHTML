@@ -109,7 +109,7 @@
   <!--  ************* 01 ************************  -->
   <div class="step-text-box">
   <p class="text-box">01</p>
-  <h3 class="heading3"><b><i>Tell us what you want to eat</i></b></h3>
+  <h3 class="heading3"><strong><i>Tell us what you want to eat</i></strong></h3>
   <p class="Description-step">Don't stress when deciding what to eat! We're here to provide you with a variety of nutrient-dense options. Our menu includes carefully selected items and we offer a timeline of when and what to eat. Let us take care of your dietary needs while allowing you to enjoy your food without worry.</p>
 </div>
   <div class="img-box">
@@ -121,16 +121,16 @@
  </div>
 <div class="step-text-box">
   <p class="text-box">02</p>
-  <h3 class="heading3"><b><i>These are the food products we offer. Have fun!</i></b></h3>
-  <p class="Description-step">Breakfast: The best breakfast options include whole grains, oats, yogurt, fresh fruit, eggs, lean meats like turkey or tofu, and whole grain bread. These options provide good amounts of carbohydrates, protein and fiber to keep you energized throughout the day. 
-Lunch: Consider adding lean meats like chicken, fish, tofu or beans, as well as whole grains like quinoa or brown rice, and lots of vegetables. Salads, wraps, soups, and sandwiches that offer a variety of flavors and textures are also good options. 
-Dinner: A combination of protein, vegetables and whole grains is recommended for dinner.
+  <h3 class="heading3"><strong><i>These are the food products we offer. Have fun!</i></strong></h3>
+  <p class="Description-step"><i><u><br>Breakfast: </br></u></i>The best breakfast options include whole grains, oats, yogurt, fresh fruit, eggs, lean meats like turkey or tofu, and whole grain bread. These options provide good amounts of carbohydrates, protein and fiber to keep you energized throughout the day. 
+<i><u><br>Lunch: </br></u></i> Consider adding lean meats like chicken, fish, tofu or beans, as well as whole grains like quinoa or brown rice, and lots of vegetables. Salads, wraps, soups, and sandwiches that offer a variety of flavors and textures are also good options. 
+<i><u><br>Dinner:</br></u></i> A combination of protein, vegetables and whole grains is recommended for dinner.
 This can include lean meat such as beef, chicken or fish, along with a variety of vegetables or salads. Whole grains such as bulgur, couscous or whole wheat pasta can also be added.</p>
 </div>
 <!--  ************* 03 ************************  -->
 <div class="step-text-box">
   <p class="text-box">03</p>
-  <h3 class="heading3"><b><i>"Food is ready, worth the wait, let's eat!"</i></b></h3>
+  <h3 class="heading3"><strong><i>"Food is ready, worth the wait, let's eat!"</i></strong></h3>
   <p class="Description-step">The food is ready and worth the wait, let's eat! "It is an invitation to enjoy a delicious meal. It means that the time and effort spent in preparing the meal is rewarded with an immensely felt culinary pleasure. When you sit down to enjoy a meal, the aromas emanating from the air excite you. Each bread heralds an explosion of taste, carefully prepared and masterfully created." .
 Taste buds awaken as you taste each mouthwatering bite.</p>
 </div>
@@ -146,25 +146,79 @@ Taste buds awaken as you taste each mouthwatering bite.</p>
 <!--   -->
  <section class="meals-section">
  <div class="meal-container">
- <span class="meals-heading">Meals</span>
+ <span class="meals-heading">Breakfast, Lunch &dinner</span>
  <h2 class="meals-second-heading">"Our hotel has a variety of foods to meet neutron nutrients and promote health"</h2>
  <div class="container grid col-3-grid">
+<!--  -->
+<div class="meal">
+ <img src="https://sukhis.com/app/uploads/2022/04/image3-4.jpg" class="meal-image" alt="recipes"/>
+<span class="tag">Breakfast</span>
+<p class="meal-tittle">South Indian Food</p>
+<ul class="meal-Details">
+<li class="meal-Detail"><ion-icon class="meal-icon" name="flame-outline"></ion-icon>
+ <span><strong>500</strong> calories</span></li>
+<li class="meal-Detail">
+ <ion-icon class="meal-icon" name="restaurant-outline"></ion-icon>
+<span><strong>74</strong> Nutriscore &reg</span></li>
+<li class="meal-Detail"><ion-icon class="meal-icon" name="star"></ion-icon>
+<span>Rating: <strong>4.5</strong> (1000)</span></li>
+</ul>
+ </div>
+<!--  -->
  <div class="meal">
- <img src="https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food.jpg" class="meal-image" alt="recipes"/>
+ <img src="https://i.pinimg.com/originals/e1/da/d5/e1dad5315972c8a9db86fb01d69c7ecb.jpg" class="meal-image" alt="recipes"/>
 <span class="tag">Vegetarian</span>
 <p class="meal-tittle">South Indian Food</p>
 <ul class="meal-Details">
-<li class="meal-Detail"><ion-icon name="flame-outline"></ion-icon>
- <span>500 calories</span></li>
+<li class="meal-Detail"><ion-icon class="meal-icon" name="flame-outline"></ion-icon>
+ <span><strong>600</strong> calories</span></li>
 <li class="meal-Detail">
- <ion-icon name="restaurant-outline"></ion-icon>
-<span>74 Nutriscore &reg</span></li>
-<li class="meal-Detail"><ion-icon name="star"></ion-icon>
-<span>Rating: 4.5(1000)</span></li>
+ <ion-icon class="meal-icon" name="restaurant-outline"></ion-icon>
+<span><strong>65</strong> Nutriscore &reg</span></li>
+<li class="meal-Detail"><ion-icon class="meal-icon" name="star"></ion-icon>
+<span>Rating: <strong>4.3</strong> (1000)</span></li>
 </ul>
  </div>
- <div class="meal">Meals</div>
- <div class="list">List of diets</div>
+ <div class="meal">
+ <img src="https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food.jpg" class="meal-image1" alt="recipes"/>
+<span class="tag1">Non-vegetarian</span>
+<p class="meal-tittle">South Indian Food</p>
+<ul class="meal-Details">
+<li class="meal-Detail"><ion-icon class="meal-icon" name="flame-outline"></ion-icon>
+ <span><strong>700</strong> calories</span></li>
+<li class="meal-Detail">
+ <ion-icon class="meal-icon" name="restaurant-outline"></ion-icon>
+<span><strong>84</strong> Nutriscore &reg</span></li>
+<li class="meal-Detail"><ion-icon class="meal-icon" name="star"></ion-icon>
+<span>Rating: <strong>4.7</strong> (1000)</span></li>
+</ul>
+</div>
+ <div class="diet">
+<ul class="list">
+<p class="mpara"><strong><i>Applicable to everyone<i><strong></p>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp"></sub></ion-icon>
+<span>Breakfast</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp"></sub></ion-icon>
+<span>Lunch</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp"></sub></ion-icon>
+<span>Dinner</span></li> 
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp" ></sub></ion-icon>
+<span>Vegetarian</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp"></sub></ion-icon>
+<span>Non-Vegetarian</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp"></sub></ion-icon>
+<span>Evening Snacks</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp" ></sub></ion-icon>
+<span>Fruit Salad</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp" ></sub></ion-icon>
+<span>Fruit juices</span></li>
+<li class="list-items"><sub><ion-icon class="micon" name="checkmark-circle-sharp" ></sub></ion-icon>
+<span>Beverages</span></li>
+</ul>
+ </div>
+ </div>
+ <div>
+ <a href="#" class="view-recipes">View all recipes &rarr;</a>
  </div>
  </div>
  </section>
