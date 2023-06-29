@@ -147,7 +147,8 @@ Taste buds awaken as you taste each mouthwatering bite.</p>
  <section class="meals-section">
  <div class="meal-container">
  <span class="meals-heading">Breakfast, Lunch &dinner</span>
- <h2 class="meals-second-heading">"Our hotel has a variety of foods to meet neutron nutrients and promote health"</h2>
+ <h2 class="meals-second-heading"><marquee width="60%" direction="left" height="100px">"Our hotel has a variety of foods to meet neutron nutrients and promote health"</marquee></h2>
+ </div>
  <div class="container grid col-3-grid">
 <!--  -->
 <div class="meal">
@@ -224,7 +225,68 @@ Taste buds awaken as you taste each mouthwatering bite.</p>
  </section>
 <!--     -->
 <!-- meals section  end-->
-<!--   -->     
+<!--   --> 
+ <!--     -->
+<!-- testinomilals start-->
+<!--   --> 
+<section>
+<div class="testinomials-section">
+<div>
+<!--  class="meal-container" -->
+ <span class="test-head">Remembrance</span>
+ <h2 class="testinomials-heading">"Once you've experienced it, there's no turning back."</h2>
+ </div>
+ <div class="testinomials">
+ <img class="human-logos"><img src="https://tty-art.com/file/2020/01/Generated-Faces-by-AI-Young-Men-V1-001.jpg" class="thumans" alt="human"/>
+<blockquote class="testinomials-review">Located in the tranquility of nature, the restaurant is praised for its dedication to providing wholesome and wholesome food. My eating habits lately have been an enjoyable way to nourish my body and soul. From the moment I entered the warm and inviting space, I knew I was up against something special. </blockquote>
+<p class="human-name">&mdash; (Dale Mckee)</p>
+<!-- </div> -->
+<!-- <div class="testinomials"> -->
+ <img class="human-logos"><img src="https://www.zmo.ai/wp-content/uploads/2023/03/ImgCreator.ai-realism-realistic-realphoto-photography-portrait-handsome-man-black-eyes-suit-hat-s.webp" class="thumans" alt="human"/>
+<blockquote class="testinomials-review">The restaurant's dishes are a testament to its excellent culinary commitment. Each dish is carefully prepared using natural and organic ingredients to express the beauty and flavor of nature. The variety of options on offer ensures that all dietary preferences can be met, whether vegan, vegetarian or gluten-free.</blockquote>
+<p class="human-name">&mdash; (Darin)</p>
+<!-- </div>
+<div class="testinomials"> -->
+ <img class="human-logos"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rw19WZuSrpRCXdqxqwHmsyOtdfBylsixgg&usqp=CAU" class="thumans" alt="human"/>
+<blockquote class="testinomials-review">I started my meal with a vibrant salad bursting with fresh greens, crisp vegetables, and a zesty dressing that awakened my taste buds. The ingredients were sourced locally, ensuring the produce was at its peak freshness. It was a pleasure to indulge in such vibrant flavors while knowing that I was nourishing my body with wholesome goodness.</blockquote>
+<p class="human-name">&mdash; (Arianna)</p>
+<!-- </div>
+ <div class="testinomials"> -->
+ <img class="human-logos"><img src="https://static01.nyt.com/newsgraphics/2017/12/26/ai-faces/8e890dbb781d60b011c9be1f9a169ed2583a0dda/progression/img000054.png" class="thumans" alt="human"/>
+<blockquote class="testinomials-review">For the main course, I opted for a grilled salmon dish that was cooked to perfection. The fish was tender, flaky, and accompanied by a medley of roasted vegetables. It was evident that the chef's expertise and passion were infused into every bite. </blockquote>
+<p class="human-name">&mdash; (Angelina)</p>
+</div>
+<div class="gallary">
+<figure>
+<img src="https://media.istockphoto.com/id/922783734/photo/assorted-indian-recipes-food-various.jpg?s=612x612&w=0&k=20&c=p8DepvymWfC5j7c6En2UsQ6sUM794SQMwceeBW3yQ9M=" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://t4.ftcdn.net/jpg/02/47/33/93/360_F_247339307_HsRxhtFkAHsBUkjD4ZfvCf8AAungQ7rX.jpg" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://wallpapers.com/images/hd/traditional-thali-platter-indian-food-7ppdmw8bs4n1f36j.jpg" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://c4.wallpaperflare.com/wallpaper/834/995/682/food-india-indian-wallpaper-preview.jpg" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://gumlet.assettype.com/homegrown/import/book/kuhwlbayxs-1533040300.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://gumlet.assettype.com/homegrown%2Fimport%2Fzgrrxxksfx-1533044907.jpg?auto=format%2Ccompress&format=webp&w=400&dpr=2.6" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://images.squarespace-cdn.com/content/v1/5f2fa039103c7a08856032c1/1617504615324-FWFBK399M856X125MBKY/20210321_161914.jpg" class="gallary-img" alt="food"/>
+</figure>
+<figure>
+<img src="https://t4.ftcdn.net/jpg/02/47/33/93/360_F_247339307_HsRxhtFkAHsBUkjD4ZfvCf8AAungQ7rX.jpg" class="gallary-img" alt="food"/>
+</figure>
+</div>
+</div>
+ </section>
+ <!--     -->
+<!-- testinomials section  end-->
+<!--   --> 
 <!-- ***************************************************************
  ******************************************************************-->
 <!--  -->
